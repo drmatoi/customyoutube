@@ -2,10 +2,10 @@
 Thanks to all the developers which made this simple addons! 
 
 FEATURES VERSION 1.0 
-- Custom Backround,
--  Transparent objects,
--   Video and Audio Downloader,
--    Custom Screenshot Plugin ,
+-    Custom Backround,
+-    Transparent objects,
+-      Video and Audio Downloader,
+-      Custom Screenshot Plugin ,
 -     Faster/Slower Buttons,
 -      Age Rescriction Bypass,
 -       Custom Youtube Play Logo
