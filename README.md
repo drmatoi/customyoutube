@@ -12,7 +12,7 @@ FEATURES VERSION 0.2
 
 All scripts in one script ? Yes! You can use all this with just one script!
 
-#ISSUES
+# ISSUES
 The video & audio downloader from version 0.1 was removed in the last update to 0.2. As soon as we find another working script we will ad it in the next update!
 
 
