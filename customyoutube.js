@@ -264,7 +264,7 @@ if (typeof GM_addStyle != "undefined") {
             // Set the div's attributes.
             div.id        = 'yt-container';
             div.className = 'style-scope ytd-watch-flexy';
-            div.innerHTML = '<button id="linksButton">Download Links</button><div id="yt-links"><div><div><h3>Video & Audio Combined</h3><div id="combined"></div></div></div><div class="flex"><div><h3>Video Only - No Audio</h3><div id="seperate-video"></div></div><div><h3>Audio Only - No Video</h3><div id="seperate-audio"></div></div></div><div class="center footer flex"><div><s>Left Click = Potentially Quicker Download</s></div><div>Right Click -> Save As = Normal Download</div></div>';
+            div.innerHTML = '<button id="linksButton">Custom Youtube by MrMatoi | Matoi Studio</button><div id="yt-links"><div><div><h3>Video & Audio Combined</h3><div id="combined"></div></div></div><div class="flex"><div><h3>Video Only - No Audio</h3><div id="seperate-video"></div></div><div><h3>Audio Only - No Video</h3><div id="seperate-audio"></div></div></div><div class="center footer flex"><div><s>Left Click = Potentially Quicker Download</s></div><div>Right Click -> Save As = Normal Download</div></div>';
 
             div.getElementsByTagName( 'button' )[ 0 ].addEventListener( 'click', () => {
                 // Do some magic to allow for a variable number of links. (overall container height)
@@ -2125,5 +2125,5 @@ if (!iconset) {
 //
 
 // replace the backround link with the png / gif you want as backround :) - MrMatoi
-// FEATURES VERSION 1.0 - Custom Backround, Transparent objects, Video and Audio Downloader, Custom Screenshot Plugin , Faster/Slower Buttons, Age Rescriction Bypass, Custom Youtube Play Logo
+// FEATURES VERSION 1.0 - Custom Backround, Transparent objects, Custom Screenshot Plugin , Faster/Slower Buttons, Age Rescriction Bypass, Custom Youtube Play Logo
 // Problems ? Write in "Issues" Much Fun!
